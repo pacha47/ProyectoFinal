@@ -1,0 +1,67 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\def\UrlFont{\rmfamily}
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{Martinez}
+Proyecto final de Carrera. Guillermo Andres Martinez. “Desarrollo de un módulo de cálculo con interfaz en GiD, basado en el Método de Volúmenes Finitos”. Entregado para evaluación. Junio 2014.
+
+\bibitem{Hoffman}
+K. Hoffman y Steve Chiang, Computational Fluid Dynamics, Engineering Education System 2000.
+
+\bibitem{GiD}
+GiD: The personal pre and postprocessor for numerical simulations. CIMNE- UPC- Barcelona España (2013). \textit{http://www.gidhome.com/home }
+
+\bibitem{Intro}
+H. K. Versteeg y W. Malalasekera, An Introduction to Computacional Fluid Dynamics,  Longman Scientific y Technical 1995.
+
+\bibitem{Peric}
+Ferziger, J. H., Peric,Computational Methods for Fluid Dynamics, Springer-Verlag Berlin Heidelberg New York 2002.
+
+\bibitem{BP} 
+Baliga, B.R., Patankar, S.V., 1980, A new finite element formulation for convection diffusion problems, Numerical Heat Transfer.
+
+\bibitem{FS}
+Sylvain Boivin, Florent Cayré, Jean-Marc Hérard, A finite volume method to solve the Navier–Stokes equations for incompressible flows on unstructured meshes, Éditions scientifiques et médicales Elsevier SAS 1999.
+
+\bibitem{FLT} 
+S. Faure, J. Laminie, and R. Temam, Finite volume discretization and multilevel methods in flow problems. Publicado en: J Sci Comput 2003.
+
+\bibitem{RTR} 
+R. Eymard, T. Galloue˜t, and R. Herbin, Finite volume methods. Handbook of numerical analysis, Vol. VII, Handb Numer Anal, VII, North-Holland, Amsterdam, 2000, pp. 713–1020.
+
+
+\bibitem{Chorin} 
+A. J. Chorin, Numerical solution of the Navier-Stokes equations, Math Comp 22 (1968).
+
+\bibitem{MT} 
+M. Marion and R. Temam, Navier-Stokes equations: theory and approximation, Handbook of numerical analysis, Vol. VI, North-Holland, Amsterdam, 1998, pp. 503–688.
+
+\bibitem{GGS} 
+Guia, U., Ghia, K. N., and Shin, C. T., 1982, High-Re solutions for incompressible flow using the navier-stokes equations and a multigrid method, Journal of Computational Physics, vol. 48, pp. 387-411.
+
+\bibitem{Schneider} 
+Schneider, F.A., 1998, Solução numérica de escoamentos bidimensionais em malhas não-estruturadas pelo método dos volumes finitos, Dissertação de Mestrado, Coordenadoria de Pós-Graduação em Engenharia Mecânica, UFSC, Florianópolis, SC, Brasil.
+
+\bibitem{TK}
+Taniguchi, N. , Kobayashi, T., 1991, Finite volume method on the unstructured grid system, Computers , Fluids, vol. 9, n. 34, pp. 287-295.
+
+
+
+
+\end{thebibliography}
